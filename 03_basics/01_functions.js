@@ -8,6 +8,15 @@ function sayMyNAme() {
     console.log("A");
     console.log("Y");
 }
+function sayMyNAme() {
+
+    console.log("V");
+    console.log("I");
+    console.log("J");
+    console.log("A");
+    console.log("Y");
+}
+
 
 //sayMyNAme();
 
